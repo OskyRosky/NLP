@@ -290,6 +290,12 @@ Julia is gaining popularity for its high performance, particularly in data scien
 
 
 
-## V.
+## V. Statistical - Mathematical - Machine Learning Methods for Applying NLP
 
-## VI. 
+## VI. Methodology for Applying NLP to a Problem
+
+## VII. NLP and LLM: Similarities, Differences, and Exclusive Use Cases of Each
+
+## VIII. NLP Applications with Python
+
+## IX. Other NLP Resources
