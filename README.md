@@ -72,14 +72,23 @@ To run the project, follow these steps:
 Explore additional resources and communities to deepen your knowledge and stay connected with the NLP field:
 
 **ACL Anthology**
+
 **ArXiv.org - Computation and Language Section**
+
 **NLP News**
+
 **Hugging Face Blog**
+
 **Towards Data Science - NLP Section**
+
 **KDNuggets - NLP**
+
 **r/MachineLearning - Reddit**
+
 **AI Alignment Forum**
+
 **Paper Digest - NLP**
+
 **NLP-progress**
 
 In addition to the core content, this repository offers:
