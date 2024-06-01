@@ -107,6 +107,8 @@ A section for FAQs to help troubleshoot common issues encountered during ML proj
 
 Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The ultimate goal of NLP is to enable computers to understand, interpret, and generate human language in a way that is both meaningful and useful. NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models.
 
+![nlp](/images/ima2.jpeg)
+
 ### Key Components of NLP
 
 1. **Tokenization**: Breaking down text into individual words or phrases. For example, "Natural Language Processing" can be tokenized into ["Natural", "Language", "Processing"].
