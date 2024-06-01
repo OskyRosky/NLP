@@ -2,6 +2,8 @@
 
 # NLP
 
+![nlp](/images/ima1.png)
+
 ---------------------------------------------
 **Repository summary**
 
