@@ -36,27 +36,27 @@ Libraries:
 
 The process followed in this repository includes:
 
-Problem Definition: Identifying and defining NLP problems and objectives.
-Data Collection: Gathering high-quality text data relevant to the problem.
-Data Preprocessing: Cleaning, normalizing, tokenizing, and lemmatizing text data.
-Feature Extraction: Converting text into numerical representations using various techniques.
-Model Selection and Training: Choosing and training appropriate models for NLP tasks.
-Evaluation: Measuring model performance using relevant metrics and testing on unseen data.
-Deployment: Integrating the NLP model into applications and monitoring performance.
-Maintenance and Improvement: Regularly updating and refining the model.
+- Problem Definition: Identifying and defining NLP problems and objectives.
+- Data Collection: Gathering high-quality text data relevant to the problem.
+- Data Preprocessing: Cleaning, normalizing, tokenizing, and lemmatizing text data.
+- Feature Extraction: Converting text into numerical representations using various techniques.
+- Model Selection and Training: Choosing and training appropriate models for NLP tasks.
+- Evaluation: Measuring model performance using relevant metrics and testing on unseen data.
+- Deployment: Integrating the NLP model into applications and monitoring performance.
+- Maintenance and Improvement: Regularly updating and refining the model.
 
 5.  **Learning** 💡
 
-Foundational Concepts: Understanding the basics of NLP and its key components.
-Historical Perspectives: Learning about the pioneers and early developments in NLP.
-Modern Techniques: Exploring advanced methods and state-of-the-art models in NLP.
-Practical Implementation: Applying NLP techniques to solve real-world problems.
+- Foundational Concepts: Understanding the basics of NLP and its key components.
+- Historical Perspectives: Learning about the pioneers and early developments in NLP.
+- Modern Techniques: Exploring advanced methods and state-of-the-art models in NLP.
+- Practical Implementation: Applying NLP techniques to solve real-world problems.
 
 6.  **Improvement** 🔩
 
-Continuous Learning: Stay updated with the latest advancements in NLP by following key resources.
-Experimentation: Try different models, techniques, and tools to find the best solutions.
-Feedback Loop: Regularly evaluate and refine models based on performance and feedback.
+- Continuous Learning: Stay updated with the latest advancements in NLP by following key resources.
+- Experimentation: Try different models, techniques, and tools to find the best solutions.
+- Feedback Loop: Regularly evaluate and refine models based on performance and feedback.
 
 7.  **Running the Project** ⚙️
 
@@ -137,6 +137,8 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 
 6. **Document Classification**: Automatically categorizing documents into predefined categories, such as spam detection in emails.
 
+![nlp](/images/ima4.png)
+
 **Example: Sentiment Analysis in Social Media**
 
 Imagine a company wants to understand public opinion about its new product launch. Using sentiment analysis, the company can analyze thousands of social media posts to determine whether the overall sentiment is positive, negative, or neutral. This helps the company gauge the success of the product and make informed decisions.
@@ -150,6 +152,8 @@ NLP is a powerful tool that has transformed the way we interact with technology 
 ## II. Origins of NLP
 
 The origins of Natural Language Processing (NLP) can be traced back to the 1950s when the concept of making machines understand and interpret human language began to take shape. Here are some key points to include in this section:
+
+![nlp](/images/ima3.png)
 
 ### Early Days of NLP
 
@@ -184,6 +188,8 @@ In the present day, NLP is crucial in various professional fields due to its abi
 ## III. Categories of NLP
 
 NLP encompasses a wide range of techniques and methods aimed at enabling machines to understand, interpret, and generate human language. Each technique addresses specific challenges and applications within the field. Below are some of the most important types or categories of NLP, along with explanations of their contexts and real-world examples of their applications.
+
+![nlp](/images/ima5.png)
 
 ### 1. Tokenization
 
@@ -280,7 +286,9 @@ Natural Language Processing (NLP) can be implemented using various programming l
 6. Julia
 7. C++
 8. Ruby
- 
+
+![nlp](/images/ima6.jpeg)
+
 ### Python
 
 Python is one of the most popular languages for NLP due to its simplicity and the vast array of libraries available.
@@ -291,6 +299,8 @@ Python is one of the most popular languages for NLP due to its simplicity and th
 - **Gensim**: Specializes in topic modeling and document similarity analysis using algorithms like Word2Vec.
 - **Transformers (Hugging Face**: Provides pre-trained models for a variety of NLP tasks such as text classification, translation, and summarization using transformer architectures like BERT and GPT.
 - **Flair**: A simple library for state-of-the-art NLP, particularly known for its word embeddings and text classification capabilities.
+
+![nlp](/images/ima7.webp)
 
 ### R
 
@@ -361,7 +371,7 @@ Julia is gaining popularity for its high performance, particularly in data scien
 
 **Languages.jl**: Supports a wide range of multilingual NLP tasks, making it valuable for applications involving multiple languages.
 
-
+![nlp](/images/ima8.webp)
 
 ## V. Statistical - Mathematical - Machine Learning Methods for Applying NLP
 
