@@ -36,14 +36,14 @@ Libraries:
 
 The process followed in this repository includes:
 
-Problem Definition: Identifying and defining NLP problems and objectives.
-Data Collection: Gathering high-quality text data relevant to the problem.
-Data Preprocessing: Cleaning, normalizing, tokenizing, and lemmatizing text data.
-Feature Extraction: Converting text into numerical representations using various techniques.
-Model Selection and Training: Choosing and training appropriate models for NLP tasks.
-Evaluation: Measuring model performance using relevant metrics and testing on unseen data.
-Deployment: Integrating the NLP model into applications and monitoring performance.
-Maintenance and Improvement: Regularly updating and refining the model.
+- Problem Definition: Identifying and defining NLP problems and objectives.
+- Data Collection: Gathering high-quality text data relevant to the problem.
+- Data Preprocessing: Cleaning, normalizing, tokenizing, and lemmatizing text data.
+- Feature Extraction: Converting text into numerical representations using various techniques.
+- Model Selection and Training: Choosing and training appropriate models for NLP tasks.
+- Evaluation: Measuring model performance using relevant metrics and testing on unseen data.
+- Deployment: Integrating the NLP model into applications and monitoring performance.
+- Maintenance and Improvement: Regularly updating and refining the model.
 
 5.  **Learning** 💡
 
