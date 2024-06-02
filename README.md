@@ -137,6 +137,8 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 
 6. **Document Classification**: Automatically categorizing documents into predefined categories, such as spam detection in emails.
 
+![nlp](/images/ima4.png)
+
 **Example: Sentiment Analysis in Social Media**
 
 Imagine a company wants to understand public opinion about its new product launch. Using sentiment analysis, the company can analyze thousands of social media posts to determine whether the overall sentiment is positive, negative, or neutral. This helps the company gauge the success of the product and make informed decisions.
@@ -186,6 +188,8 @@ In the present day, NLP is crucial in various professional fields due to its abi
 ## III. Categories of NLP
 
 NLP encompasses a wide range of techniques and methods aimed at enabling machines to understand, interpret, and generate human language. Each technique addresses specific challenges and applications within the field. Below are some of the most important types or categories of NLP, along with explanations of their contexts and real-world examples of their applications.
+
+![nlp](/images/ima5.png)
 
 ### 1. Tokenization
 
@@ -282,7 +286,9 @@ Natural Language Processing (NLP) can be implemented using various programming l
 6. Julia
 7. C++
 8. Ruby
- 
+
+![nlp](/images/ima6.jpeg)
+
 ### Python
 
 Python is one of the most popular languages for NLP due to its simplicity and the vast array of libraries available.
@@ -293,6 +299,8 @@ Python is one of the most popular languages for NLP due to its simplicity and th
 - **Gensim**: Specializes in topic modeling and document similarity analysis using algorithms like Word2Vec.
 - **Transformers (Hugging Face**: Provides pre-trained models for a variety of NLP tasks such as text classification, translation, and summarization using transformer architectures like BERT and GPT.
 - **Flair**: A simple library for state-of-the-art NLP, particularly known for its word embeddings and text classification capabilities.
+
+![nlp](/images/ima6.webp)
 
 ### R
 
