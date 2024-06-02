@@ -572,6 +572,8 @@ NLP and LLMs offer robust solutions for understanding and generating human langu
 
 ## VIII. NLP Applications with Python
 
+![nlp](/images/ima12.png)
+
 - Aplication 1:
 - Aplication 2:
 - Aplication 3:
@@ -579,6 +581,8 @@ NLP and LLMs offer robust solutions for understanding and generating human langu
 ## IX. Other NLP Resources
 
 Staying updated with the latest developments in NLP is crucial for anyone involved in this field. Here is a list of 10 exclusive websites and resources dedicated to NLP that can help you keep abreast of the latest trends, research, and tools.
+
+![nlp](/images/ima13.png)
 
 1. **ACL Anthology**
 
