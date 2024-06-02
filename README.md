@@ -300,7 +300,7 @@ Python is one of the most popular languages for NLP due to its simplicity and th
 - **Transformers (Hugging Face**: Provides pre-trained models for a variety of NLP tasks such as text classification, translation, and summarization using transformer architectures like BERT and GPT.
 - **Flair**: A simple library for state-of-the-art NLP, particularly known for its word embeddings and text classification capabilities.
 
-![nlp](/images/ima6.webp)
+![nlp](/images/ima7.webp)
 
 ### R
 
@@ -371,7 +371,7 @@ Julia is gaining popularity for its high performance, particularly in data scien
 
 **Languages.jl**: Supports a wide range of multilingual NLP tasks, making it valuable for applications involving multiple languages.
 
-
+![nlp](/images/ima8.webp)
 
 ## V. Statistical - Mathematical - Machine Learning Methods for Applying NLP
 
