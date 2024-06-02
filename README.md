@@ -47,16 +47,16 @@ The process followed in this repository includes:
 
 5.  **Learning** 💡
 
-Foundational Concepts: Understanding the basics of NLP and its key components.
-Historical Perspectives: Learning about the pioneers and early developments in NLP.
-Modern Techniques: Exploring advanced methods and state-of-the-art models in NLP.
-Practical Implementation: Applying NLP techniques to solve real-world problems.
+- Foundational Concepts: Understanding the basics of NLP and its key components.
+- Historical Perspectives: Learning about the pioneers and early developments in NLP.
+- Modern Techniques: Exploring advanced methods and state-of-the-art models in NLP.
+- Practical Implementation: Applying NLP techniques to solve real-world problems.
 
 6.  **Improvement** 🔩
 
-Continuous Learning: Stay updated with the latest advancements in NLP by following key resources.
-Experimentation: Try different models, techniques, and tools to find the best solutions.
-Feedback Loop: Regularly evaluate and refine models based on performance and feedback.
+- Continuous Learning: Stay updated with the latest advancements in NLP by following key resources.
+- Experimentation: Try different models, techniques, and tools to find the best solutions.
+- Feedback Loop: Regularly evaluate and refine models based on performance and feedback.
 
 7.  **Running the Project** ⚙️
 
@@ -150,6 +150,8 @@ NLP is a powerful tool that has transformed the way we interact with technology 
 ## II. Origins of NLP
 
 The origins of Natural Language Processing (NLP) can be traced back to the 1950s when the concept of making machines understand and interpret human language began to take shape. Here are some key points to include in this section:
+
+![nlp](/images/ima3.png)
 
 ### Early Days of NLP
 
