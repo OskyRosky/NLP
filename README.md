@@ -377,6 +377,8 @@ Julia is gaining popularity for its high performance, particularly in data scien
 
 Natural Language Processing (NLP) leverages a variety of statistical, mathematical, and machine learning methods to perform different tasks. These methods are essential for processing and understanding human language. Here is a summary of these approaches and how they are applied to different NLP tasks.
 
+![nlp](/images/ima9.jpeg)
+
 ### 1. Statistical Methods
 
 Statistical methods involve analyzing the frequency and patterns of words in large text corpora. These methods are often used for tasks like text classification, clustering, and language modeling.
@@ -422,6 +424,8 @@ Each of these methods plays a crucial role in the various tasks involved in NLP,
 ## VI. Methodology for Applying NLP to a Problem
 
 Applying NLP to a problem involves a systematic approach to ensure effective and accurate results. Here is a general methodology that can be followed:
+
+![nlp](/images/ima10.jpeg)
 
 ### Step 1: Problem Definition
 
@@ -508,6 +512,8 @@ Following this methodology ensures a structured and efficient approach to solvin
 ## VII. NLP and LLM: Similarities, Differences, and Exclusive Use Cases
 
 Natural Language Processing (NLP) and Large Language Models (LLMs) are closely related fields in the realm of artificial intelligence that focus on understanding and generating human language. However, they differ in their methodologies, techniques, and applications. Here, we will explore their similarities, differences, and exclusive use cases.
+
+![nlp](/images/ima11.png)
 
 ### Similarities Between NLP and LLM
 
